@@ -7,7 +7,13 @@
 
 # In[4]:
 
-
+x = 10
+if (x < 0):
+    print('La variable es menor a cero')
+elif (x > 0): 
+    print('La variable es mayor a cero')
+else:
+    print('La variable es igual a cero')
 
 
 
